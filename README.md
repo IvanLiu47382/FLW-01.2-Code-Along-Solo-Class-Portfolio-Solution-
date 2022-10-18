@@ -15,7 +15,7 @@
 1. [ ] Update the company name on the about page.
 2. [ ] Include a few facts about the company. Try making this an unordered list!
 3. [ ] On the same page, write a short bio about yourself.
-4. [x] Include an image that represents something about you - this could be a picture of yourself, an interest of yours, or maybe some art you created!
+4. [ ] Include an image that represents something about you - this could be a picture of yourself, an interest of yours, or maybe some art you created!
 5. [ ] On the home page (index.html), update with the correct company name.
 6. [ ] Then, replace the placeholder image with a company logo/image.
 7. [ ] On this same page, add a link to your Fellowship Agenda.
